@@ -1,0 +1,9 @@
+c:\users\миша\documents\visual studio 2015\Projects\Проект Шифрование\Проект Шифрование\bin\Debug\Проект Шифрование.exe.config
+C:\Users\Миша\Documents\Visual Studio 2015\Projects\Проект Шифрование\Проект Шифрование\bin\Debug\Проект Шифрование.exe
+C:\Users\Миша\Documents\Visual Studio 2015\Projects\Проект Шифрование\Проект Шифрование\bin\Debug\Проект Шифрование.pdb
+C:\Users\Миша\Documents\Visual Studio 2015\Projects\Проект Шифрование\Проект Шифрование\obj\Debug\Проект Шифрование.csprojResolveAssemblyReference.cache
+C:\Users\Миша\Documents\Visual Studio 2015\Projects\Проект Шифрование\Проект Шифрование\obj\Debug\Проект_Шифрование.Form1.resources
+C:\Users\Миша\Documents\Visual Studio 2015\Projects\Проект Шифрование\Проект Шифрование\obj\Debug\Проект_Шифрование.Properties.Resources.resources
+C:\Users\Миша\Documents\Visual Studio 2015\Projects\Проект Шифрование\Проект Шифрование\obj\Debug\Проект Шифрование.csproj.GenerateResource.Cache
+C:\Users\Миша\Documents\Visual Studio 2015\Projects\Проект Шифрование\Проект Шифрование\obj\Debug\Проект Шифрование.exe
+C:\Users\Миша\Documents\Visual Studio 2015\Projects\Проект Шифрование\Проект Шифрование\obj\Debug\Проект Шифрование.pdb
